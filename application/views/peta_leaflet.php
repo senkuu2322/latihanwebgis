@@ -1,1 +1,1 @@
-<h1>kok ngga bisa sih hehe</h1>
+<h1>Hello Minasan, hajimemashite</h1>
